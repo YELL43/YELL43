@@ -1,5 +1,5 @@
-[i[logo](https://github.com/YELL43/YELL43/blob/main/assets/mochilive.jpg)]
-
+[![logo](https://github.com/YELL43/YELL43/blob/main/assets/mochilive.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hi, I’m @YELL43
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
