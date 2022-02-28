@@ -16,6 +16,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=YELL43&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img height="180em" src="https://camo.githubusercontent.com/329ece4bdcea80f245908c6cbb642c5ac645cebd78aaf7192c0f7bf72272718e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72696465726d616e7362266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;">
 <!---
 YELL43/YELL43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
