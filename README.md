@@ -1,4 +1,4 @@
-[i[logo](https://github.com/YELL43/YELL43/blob/main/assets/mochilive.jpg)
+[i[logo](https://github.com/YELL43/YELL43/blob/main/assets/mochilive.jpg)]
 
 - 👋 Hi, I’m @YELL43
 - 👀 I’m interested in ...
