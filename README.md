@@ -17,7 +17,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Facebook Badge](https://img.shields.io/badge/-thanaphon-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tnapon.yell/)](https://www.facebook.com/tnapon.yell/)
-[![Instagram Badge](https://img.shields.io/badge/-tj_yell43-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tj_yell43/)](https://instagram.com/kanna6501)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-tj_yell43-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tj_yell43/)](https://instagram.com/kanna6501) -->
 [![Gmail Badge](https://img.shields.io/badge/-tnapon2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnapon2016@gmail.com)](mailto:tnapon2016@gmail.com)
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
