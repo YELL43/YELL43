@@ -7,9 +7,40 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; My website https://yell43.000webhostapp.com/myprofile/index.html#. <br>
 
-
-
-
+<div class="section">
+        <h2>Work Experience</h2>
+        <h3>Junior Programmer Intern</h3>
+        <p>IT-Technocom Limited Partnership<br>2021 - 2022</p>
+        <ul>
+          <li>Collaborated with the development team for requirement gathering.</li>
+          <li>Developed websites and applications based on requirements.</li>
+          <li>Built applications using Flutter.</li>
+        </ul>
+        <h3>PHP Programmer</h3>
+        <p>Muangthai Capital (MTC)<br>05-2022 - 11-2022</p>
+        <h3>Web Developer</h3>
+        <p>Paneet Interactive<br>11-2022 - Present</p>
+      </div>
+<div class="section">
+        <h2>Expertise</h2>
+        <div class="expertise-grid">
+          <div>
+            <h3>Language</h3>
+            <p>HTML, JavaScript, TypeScript, MySQL, PHP, CSS, Dart</p>
+          </div>
+          <div>
+            <h3>Framework</h3>
+            <p>Nest.js, Next.js, Angular, Bootstrap, CodeIgniter, React, Flutter</p>
+          </div>
+        </div>
+</div>
+<div class="section">
+        <h2>Education History</h2>
+        <h3>Nakhon Pathom Rajabhat University</h3>
+        <p>2018 - 2022<br>B.Sc. (Software Engineering), GPA 3.75</p>
+        <h3>Matthayom Than Bin Kamphaeng Saen School</h3>
+        <p>2016 - 2018<br>English-Chinese Program</p>
+      </div>
 
 
 <hr></hr>
